@@ -4,7 +4,7 @@
   background: url("/public/background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .landingPageContainer nav {
@@ -41,7 +41,7 @@
 }
 
 .landingMainContainer>div:nth-child(1) div[role='button'] {
-  background: #D97500;
+  background: #67670fa6;
   width: fit-content;
   padding: 1rem;
   border-radius: 20px;
@@ -50,7 +50,7 @@
 
 .landingMainContainer>div:nth-child(1) div[role='button'] a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 1.7rem;
 }
 
